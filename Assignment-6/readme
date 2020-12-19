@@ -1,0 +1,22 @@
+Name: Tor Parawell
+Student ID#: 002354234
+Chapman email: parawell@chapman.edu
+Course Number and Section: CPSC 350
+Assignment: Assignment-6
+
+
+Brief Overview of Program:
+Gets the amount of time it takes to run 5 different sorting algorithms in C++. 
+
+2) A list of all source	files submitted	for the	assignment
+assignment-6.h, Sort.cpp, main.cpp
+
+3)A description	of any known compile or runtime	errors,	code limitations, or deviations
+from the assignment specification (if applicable)
+No applicable runtime errors
+
+4) A list of all references used to complete the assignment, including peers (if	applicable)
+ZyBook
+
+5) Instructions for running the	assignment. (Typically applicable in advanced courses	using build systems or third party libraries)
+To compile: make all
